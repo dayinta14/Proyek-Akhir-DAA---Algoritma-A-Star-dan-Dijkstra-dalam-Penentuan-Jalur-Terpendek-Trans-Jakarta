@@ -1,0 +1,20 @@
+route_id,route_long_name,route_color,trip_id,service_id,direction_id,stop_sequence,stop_name,stop_lat,stop_lon,location_type,shape_pt_sequence,shape_id
+1,blok m - kota,d62126,1-r07,sh,0,0,blok m,-6.243312,106.80175,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,1,asean,-6.239911,106.79897,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,2,masjid agung,-6.236472,106.798412,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,3,bundaran senayan k-l-m,-6.227766,106.800954,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,4,gelora bung karno,-6.224137,106.805837,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,5,polda metro jaya,-6.221044,106.810241,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,6,karet sudirman d-e-f,-6.212352,106.819981,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,7,dukuh atas 1,-6.205621,106.822203,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,8,tosari,-6.196742,106.823051,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,9,bundaran hi astra,-6.192977,106.822954,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,10,mh thamrin,-6.188038,106.82296,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,11,bank indonesia arah utara,-6.182776,106.8228,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,12,monas,-6.176246,106.822804,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,13,harmoni,-6.162598,106.819886,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,14,sawah besar,-6.157375,106.818645,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,15,mangga besar,-6.153266,106.817481,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,16,olimo,-6.149307,106.816641,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,17,glodok,-6.144448,106.815417,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,18,kali besar barat,-6.135355,106.81143,0,1,usj3

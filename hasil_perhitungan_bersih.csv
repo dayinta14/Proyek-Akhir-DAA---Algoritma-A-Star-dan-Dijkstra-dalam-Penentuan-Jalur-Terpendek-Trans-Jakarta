@@ -1,0 +1,442 @@
+location_name,node_id,node_name,lat,lon,connected_to,distance_km
+kali besar barat,1,blok m - kota,-6.135355,106.81143,kali besar barat,11.99
+kali besar barat,1,blok m - kota,-6.135355,106.81143,rs tarakan,3.96
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,kali besar barat,3.96
+kali besar barat,1,blok m - kota,-6.135355,106.81143,jln. makam,12.0
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,kali besar barat,12.0
+kali besar barat,1,blok m - kota,-6.135355,106.81143,gg. h. ayub,15.06
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,kali besar barat,15.06
+kali besar barat,1,blok m - kota,-6.135355,106.81143,rest area cibubur,24.27
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,kali besar barat,24.27
+kali besar barat,1,blok m - kota,-6.135355,106.81143,cipulir 1,12.04
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,kali besar barat,12.04
+kali besar barat,1,blok m - kota,-6.135355,106.81143,menara astra,8.05
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,kali besar barat,8.05
+kali besar barat,1,blok m - kota,-6.135355,106.81143,museum kebangkitan,5.69
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,kali besar barat,5.69
+kali besar barat,1,blok m - kota,-6.135355,106.81143,one park residences,12.44
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,kali besar barat,12.44
+kali besar barat,1,blok m - kota,-6.135355,106.81143,patra kuningan,11.0
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,kali besar barat,11.0
+kali besar barat,1,blok m - kota,-6.135355,106.81143,pengadilan negeri jaksel 1,16.21
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,kali besar barat,16.21
+kali besar barat,1,blok m - kota,-6.135355,106.81143,jln. poncol jaya 2,11.54
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,kali besar barat,11.54
+kali besar barat,1,blok m - kota,-6.135355,106.81143,rs harapan bunda,19.46
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,kali besar barat,19.46
+kali besar barat,1,blok m - kota,-6.135355,106.81143,kalibata city 1,14.15
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,kali besar barat,14.15
+kali besar barat,1,blok m - kota,-6.135355,106.81143,permata eksekutif 2,10.36
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,kali besar barat,10.36
+kali besar barat,1,blok m - kota,-6.135355,106.81143,jln. h. gari,14.53
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,kali besar barat,14.53
+kali besar barat,1,blok m - kota,-6.135355,106.81143,transvision,11.73
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,kali besar barat,11.73
+kali besar barat,1,blok m - kota,-6.135355,106.81143,rs mitra keluarga 2,23.22
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,kali besar barat,23.22
+kali besar barat,1,blok m - kota,-6.135355,106.81143,terrace 2 pondok indah,14.66
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,kali besar barat,14.66
+kali besar barat,1,blok m - kota,-6.135355,106.81143,grand wijaya dharmawangsa,13.26
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,kali besar barat,13.26
+kali besar barat,1,blok m - kota,-6.135355,106.81143,karet sudirman d-e-f,8.57
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,kali besar barat,8.57
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,rs tarakan,1.25
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,jln. makam,8.27
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,rs tarakan,8.27
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,gg. h. ayub,11.12
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,rs tarakan,11.12
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,rest area cibubur,20.7
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,rs tarakan,20.7
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,cipulir 1,8.35
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,rs tarakan,8.35
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,menara astra,4.22
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,rs tarakan,4.22
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,museum kebangkitan,3.29
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,rs tarakan,3.29
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,one park residences,8.56
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,rs tarakan,8.56
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,patra kuningan,7.23
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,rs tarakan,7.23
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,pengadilan negeri jaksel 1,12.27
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,rs tarakan,12.27
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,jln. poncol jaya 2,7.62
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,rs tarakan,7.62
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,rs harapan bunda,15.82
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,rs tarakan,15.82
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,kalibata city 1,10.57
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,rs tarakan,10.57
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,permata eksekutif 2,7.08
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,rs tarakan,7.08
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,jln. h. gari,10.93
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,rs tarakan,10.93
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,transvision,7.89
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,rs tarakan,7.89
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,rs mitra keluarga 2,21.65
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,rs tarakan,21.65
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,terrace 2 pondok indah,10.85
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,rs tarakan,10.85
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,grand wijaya dharmawangsa,9.31
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,rs tarakan,9.31
+rs tarakan,10h,tanjung priok - blok m,-6.171114,106.810112,karet sudirman d-e-f,4.69
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,rs tarakan,4.69
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,jln. makam,3.2
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,gg. h. ayub,4.23
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,jln. makam,4.23
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,rest area cibubur,16.84
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,jln. makam,16.84
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,cipulir 1,0.29
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,jln. makam,0.29
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,menara astra,6.0
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,jln. makam,6.0
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,museum kebangkitan,9.45
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,jln. makam,9.45
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,one park residences,1.44
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,jln. makam,1.44
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,patra kuningan,6.07
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,jln. makam,6.07
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,pengadilan negeri jaksel 1,6.67
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,jln. makam,6.67
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,jln. poncol jaya 2,4.58
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,jln. makam,4.58
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,rs harapan bunda,12.24
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,jln. makam,12.24
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,kalibata city 1,8.69
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,jln. makam,8.69
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,permata eksekutif 2,2.75
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,jln. makam,2.75
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,jln. h. gari,2.77
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,jln. makam,2.77
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,transvision,5.64
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,jln. makam,5.64
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,rs mitra keluarga 2,23.84
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,jln. makam,23.84
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,terrace 2 pondok indah,2.74
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,jln. makam,2.74
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,grand wijaya dharmawangsa,3.11
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,jln. makam,3.11
+jln. makam,1c,pesanggrahan - blok m,-6.238418,106.77745,karet sudirman d-e-f,5.52
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,jln. makam,5.52
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,gg. h. ayub,1.77
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,rest area cibubur,12.83
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,gg. h. ayub,12.83
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,cipulir 1,4.43
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,gg. h. ayub,4.43
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,menara astra,7.52
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,gg. h. ayub,7.52
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,museum kebangkitan,11.14
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,gg. h. ayub,11.14
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,one park residences,2.99
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,gg. h. ayub,2.99
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,patra kuningan,5.69
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,gg. h. ayub,5.69
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,pengadilan negeri jaksel 1,2.7
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,gg. h. ayub,2.7
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,jln. poncol jaya 2,4.19
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,gg. h. ayub,4.19
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,rs harapan bunda,8.51
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,gg. h. ayub,8.51
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,kalibata city 1,6.46
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,gg. h. ayub,6.46
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,permata eksekutif 2,6.97
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,gg. h. ayub,6.97
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,jln. h. gari,4.51
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,gg. h. ayub,4.51
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,transvision,4.82
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,gg. h. ayub,4.82
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,rs mitra keluarga 2,21.86
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,gg. h. ayub,21.86
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,terrace 2 pondok indah,2.54
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,gg. h. ayub,2.54
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,grand wijaya dharmawangsa,1.81
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,gg. h. ayub,1.81
+gg. h. ayub,1e,pondok labu - blok m,-6.270874,106.79762,karet sudirman d-e-f,6.93
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,gg. h. ayub,6.93
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,rest area cibubur,5.12
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,cipulir 1,17.08
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,rest area cibubur,17.08
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,menara astra,16.53
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,rest area cibubur,16.53
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,museum kebangkitan,18.72
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,rest area cibubur,18.72
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,one park residences,15.41
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,rest area cibubur,15.41
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,patra kuningan,13.53
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,rest area cibubur,13.53
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,pengadilan negeri jaksel 1,10.19
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,rest area cibubur,10.19
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,jln. poncol jaya 2,13.68
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,rest area cibubur,13.68
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,rs harapan bunda,4.9
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,rest area cibubur,4.9
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,kalibata city 1,10.14
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,rest area cibubur,10.14
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,permata eksekutif 2,19.46
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,rest area cibubur,19.46
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,jln. h. gari,17.22
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,rest area cibubur,17.22
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,transvision,13.03
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,rest area cibubur,13.03
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,rs mitra keluarga 2,15.74
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,rest area cibubur,15.74
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,terrace 2 pondok indah,15.29
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,rest area cibubur,15.29
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,grand wijaya dharmawangsa,13.75
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,rest area cibubur,13.75
+rest area cibubur,1k,cibubur junction - blok m,-6.339993,106.89078,karet sudirman d-e-f,16.14
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,rest area cibubur,16.14
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,cipulir 1,5.12
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,menara astra,6.2
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,cipulir 1,6.2
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,museum kebangkitan,9.62
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,cipulir 1,9.62
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,one park residences,1.71
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,cipulir 1,1.71
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,patra kuningan,6.35
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,cipulir 1,6.35
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,pengadilan negeri jaksel 1,6.91
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,cipulir 1,6.91
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,jln. poncol jaya 2,4.86
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,cipulir 1,4.86
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,rs harapan bunda,12.5
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,cipulir 1,12.5
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,kalibata city 1,8.98
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,cipulir 1,8.98
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,permata eksekutif 2,2.57
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,cipulir 1,2.57
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,jln. h. gari,2.62
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,cipulir 1,2.62
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,transvision,5.93
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,cipulir 1,5.93
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,rs mitra keluarga 2,24.12
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,cipulir 1,24.12
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,terrace 2 pondok indah,2.79
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,cipulir 1,2.79
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,grand wijaya dharmawangsa,3.38
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,cipulir 1,3.38
+cipulir 1,1m,meruya - blok m,-6.237918,106.7749,karet sudirman d-e-f,5.73
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,cipulir 1,5.73
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,menara astra,0.92
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,museum kebangkitan,3.66
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,menara astra,3.66
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,one park residences,5.61
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,menara astra,5.61
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,patra kuningan,3.02
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,menara astra,3.02
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,pengadilan negeri jaksel 1,8.22
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,menara astra,8.22
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,jln. poncol jaya 2,3.56
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,menara astra,3.56
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,rs harapan bunda,11.64
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,menara astra,11.64
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,kalibata city 1,6.44
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,menara astra,6.44
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,permata eksekutif 2,6.36
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,menara astra,6.36
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,jln. h. gari,8.75
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,menara astra,8.75
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,transvision,3.68
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,menara astra,3.68
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,rs mitra keluarga 2,19.28
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,menara astra,19.28
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,terrace 2 pondok indah,7.99
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,menara astra,7.99
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,grand wijaya dharmawangsa,5.76
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,menara astra,5.76
+menara astra,1n,tanah abang - blok m,-6.207361,106.8219,karet sudirman d-e-f,0.59
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,menara astra,0.59
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,museum kebangkitan,4.23
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,one park residences,9.23
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,museum kebangkitan,9.23
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,patra kuningan,5.99
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,museum kebangkitan,5.99
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,pengadilan negeri jaksel 1,11.56
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,museum kebangkitan,11.56
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,jln. poncol jaya 2,7.05
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,museum kebangkitan,7.05
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,rs harapan bunda,13.98
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,museum kebangkitan,13.98
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,kalibata city 1,8.69
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,museum kebangkitan,8.69
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,permata eksekutif 2,9.15
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,museum kebangkitan,9.15
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,jln. h. gari,12.23
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,museum kebangkitan,12.23
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,transvision,6.86
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,museum kebangkitan,6.86
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,rs mitra keluarga 2,18.38
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,museum kebangkitan,18.38
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,terrace 2 pondok indah,11.62
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,museum kebangkitan,11.62
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,grand wijaya dharmawangsa,9.4
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,museum kebangkitan,9.4
+museum kebangkitan,1p,senen - blok m,-6.178915,106.83877,karet sudirman d-e-f,4.24
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,museum kebangkitan,4.24
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,one park residences,2.45
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,patra kuningan,5.03
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,one park residences,5.03
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,pengadilan negeri jaksel 1,5.28
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,one park residences,5.28
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,jln. poncol jaya 2,3.43
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,one park residences,3.43
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,rs harapan bunda,10.8
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,one park residences,10.8
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,kalibata city 1,7.35
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,one park residences,7.35
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,permata eksekutif 2,4.08
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,one park residences,4.08
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,jln. h. gari,3.4
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,one park residences,3.4
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,transvision,4.46
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,one park residences,4.46
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,rs mitra keluarga 2,22.63
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,one park residences,22.63
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,terrace 2 pondok indah,2.39
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,one park residences,2.39
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,grand wijaya dharmawangsa,1.67
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,one park residences,1.67
+one park residences,1q,rempoa - blok m,-6.245436,106.78844,karet sudirman d-e-f,5.06
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,one park residences,5.06
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,patra kuningan,0.01
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,pengadilan negeri jaksel 1,5.59
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,patra kuningan,5.59
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,jln. poncol jaya 2,1.64
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,patra kuningan,1.64
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,rs harapan bunda,8.63
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,patra kuningan,8.63
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,kalibata city 1,3.54
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,patra kuningan,3.54
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,permata eksekutif 2,7.6
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,patra kuningan,7.6
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,jln. h. gari,8.42
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,patra kuningan,8.42
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,transvision,0.91
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,patra kuningan,0.91
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,rs mitra keluarga 2,17.82
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,patra kuningan,17.82
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,terrace 2 pondok indah,7.06
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,patra kuningan,7.06
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,grand wijaya dharmawangsa,4.27
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,patra kuningan,4.27
+patra kuningan,6m,stasiun manggarai - blok m,-6.232675,106.832042,karet sudirman d-e-f,2.61
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,patra kuningan,2.61
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,pengadilan negeri jaksel 1,2.21
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,jln. poncol jaya 2,4.67
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,pengadilan negeri jaksel 1,4.67
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,rs harapan bunda,5.82
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,pengadilan negeri jaksel 1,5.82
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,kalibata city 1,4.77
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,pengadilan negeri jaksel 1,4.77
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,permata eksekutif 2,9.35
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,pengadilan negeri jaksel 1,9.35
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,jln. h. gari,7.2
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,pengadilan negeri jaksel 1,7.2
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,transvision,4.71
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,pengadilan negeri jaksel 1,4.71
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,rs mitra keluarga 2,19.71
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,pengadilan negeri jaksel 1,19.71
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,terrace 2 pondok indah,5.23
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,pengadilan negeri jaksel 1,5.23
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,grand wijaya dharmawangsa,3.65
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,pengadilan negeri jaksel 1,3.65
+pengadilan negeri jaksel 1,6n,ragunan - blok m via kemang,-6.281672,106.81949,karet sudirman d-e-f,7.67
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,pengadilan negeri jaksel 1,7.67
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,jln. poncol jaya 2,5.42
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,rs harapan bunda,8.8
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,jln. poncol jaya 2,8.8
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,kalibata city 1,4.3
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,jln. poncol jaya 2,4.3
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,permata eksekutif 2,6.44
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,jln. poncol jaya 2,6.44
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,jln. h. gari,6.8
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,jln. poncol jaya 2,6.8
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,transvision,1.06
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,jln. poncol jaya 2,1.06
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,rs mitra keluarga 2,19.26
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,jln. poncol jaya 2,19.26
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,terrace 2 pondok indah,5.42
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,jln. poncol jaya 2,5.42
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,grand wijaya dharmawangsa,2.66
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,jln. poncol jaya 2,2.66
+jln. poncol jaya 2,6u,pasar minggu - blok m,-6.239441,106.81883,karet sudirman d-e-f,3.0
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,jln. poncol jaya 2,3.0
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,rs harapan bunda,8.8
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,kalibata city 1,5.32
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,rs harapan bunda,5.32
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,permata eksekutif 2,14.76
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,rs harapan bunda,14.76
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,jln. h. gari,13.02
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,rs harapan bunda,13.02
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,transvision,8.13
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,rs harapan bunda,8.13
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,rs mitra keluarga 2,15.38
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,rs harapan bunda,15.38
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,terrace 2 pondok indah,11.05
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,rs harapan bunda,11.05
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,grand wijaya dharmawangsa,9.13
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,rs harapan bunda,9.13
+rs harapan bunda,7b,kampung rambutan - blok m,-6.301945,106.868002,karet sudirman d-e-f,11.24
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,rs harapan bunda,11.24
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,kalibata city 1,4.3
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,permata eksekutif 2,10.74
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,kalibata city 1,10.74
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,jln. h. gari,10.45
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,kalibata city 1,10.45
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,transvision,3.34
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,kalibata city 1,3.34
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,rs mitra keluarga 2,15.45
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,kalibata city 1,15.45
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,terrace 2 pondok indah,8.67
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,kalibata city 1,8.67
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,grand wijaya dharmawangsa,5.94
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,kalibata city 1,5.94
+kalibata city 1,7q,blok m - pgc,-6.255951,106.85404,karet sudirman d-e-f,6.12
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,kalibata city 1,6.12
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,permata eksekutif 2,3.59
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,jln. h. gari,4.39
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,permata eksekutif 2,4.39
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,transvision,7.45
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,permata eksekutif 2,7.45
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,rs mitra keluarga 2,25.33
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,permata eksekutif 2,25.33
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,terrace 2 pondok indah,5.26
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,permata eksekutif 2,5.26
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,grand wijaya dharmawangsa,5.72
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,permata eksekutif 2,5.72
+permata eksekutif 2,8d,joglo - blok m,-6.216798,106.76524,karet sudirman d-e-f,6.08
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,permata eksekutif 2,6.08
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,jln. h. gari,3.4
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,transvision,7.81
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,jln. h. gari,7.81
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,rs mitra keluarga 2,25.86
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,jln. h. gari,25.86
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,terrace 2 pondok indah,1.97
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,jln. h. gari,1.97
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,grand wijaya dharmawangsa,4.51
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,jln. h. gari,4.51
+jln. h. gari,8e,bintaro - blok m,-6.256091,106.75965,karet sudirman d-e-f,8.24
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,jln. h. gari,8.24
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,transvision,8.31
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,rs mitra keluarga 2,18.2
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,transvision,18.2
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,terrace 2 pondok indah,6.34
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,transvision,6.34
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,grand wijaya dharmawangsa,3.51
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,transvision,3.51
+transvision,9h,universitas indonesia - blok m,-6.240036,106.82842,karet sudirman d-e-f,3.2
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,transvision,3.2
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,rs mitra keluarga 2,21.19
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,terrace 2 pondok indah,24.12
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,rs mitra keluarga 2,24.12
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,grand wijaya dharmawangsa,21.36
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,rs mitra keluarga 2,21.36
+rs mitra keluarga 2,b13,bekasi barat - blok m,-6.24088,106.99285,karet sudirman d-e-f,19.39
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,rs mitra keluarga 2,19.39
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,terrace 2 pondok indah,2.66
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,grand wijaya dharmawangsa,2.85
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,terrace 2 pondok indah,2.85
+terrace 2 pondok indah,jak.102,blok m - lebak bulus,-6.26311,106.77598,karet sudirman d-e-f,7.43
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,terrace 2 pondok indah,7.43
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,grand wijaya dharmawangsa,5.91
+grand wijaya dharmawangsa,jak.31,blok m - andara,-6.254752,106.80034,karet sudirman d-e-f,5.17
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,grand wijaya dharmawangsa,5.17
+karet sudirman d-e-f,m1,blok m - kota,-6.212352,106.819981,karet sudirman d-e-f,3.07

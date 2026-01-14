@@ -1,0 +1,1287 @@
+route_id,route_long_name,route_color,trip_id,service_id,direction_id,stop_sequence,stop_name,stop_lat,stop_lon,location_type,shape_pt_sequence,shape_id
+1,blok m - kota,d62126,1-r07,sh,0,0,blok m,-6.243312,106.80175,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,0,kali besar barat,-6.135355,106.81143,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,1,asean,-6.239911,106.79897,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,1,museum fatahillah,-6.133882,106.81214,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,2,kota,-6.136827,106.814876,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,2,masjid agung,-6.236472,106.798412,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,3,bundaran senayan k-l-m,-6.227766,106.800954,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,3,glodok,-6.144438,106.815498,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,4,gelora bung karno,-6.224137,106.805837,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,4,olimo,-6.149291,106.816732,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,5,mangga besar,-6.153256,106.817543,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,5,polda metro jaya,-6.221044,106.810241,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,6,karet sudirman d-e-f,-6.212352,106.819981,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,6,sawah besar,-6.157366,106.818702,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,7,harmoni,-6.162764,106.819961,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,7,dukuh atas 1,-6.205621,106.822203,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,8,monas,-6.176252,106.822922,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,8,tosari,-6.196742,106.823051,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,9,bank indonesia arah selatan,-6.184784,106.82326,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,9,bundaran hi astra,-6.192977,106.822954,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,10,mh thamrin,-6.188038,106.82296,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,10,mh thamrin,-6.188262,106.82304,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,11,bundaran hi astra,-6.192971,106.82303,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,12,tosari,-6.19695,106.823131,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,11,bank indonesia arah utara,-6.182776,106.8228,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,13,dukuh atas 1,-6.205627,106.822295,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,14,karet sudirman k-l-m,-6.212511,106.820052,0,1,mlcx
+1,blok m - kota,d62126,1-r08,sh,1,15,polda metro jaya,-6.221129,106.81031,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,12,monas,-6.176246,106.822804,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,16,gelora bung karno,-6.224286,106.805761,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,13,harmoni,-6.162598,106.819886,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,17,bundaran senayan d-e-f,-6.227941,106.800905,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,14,sawah besar,-6.157375,106.818645,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,18,masjid agung,-6.236477,106.798482,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,15,mangga besar,-6.153266,106.817481,0,1,usj3
+1,blok m - kota,d62126,1-r07,sh,0,16,olimo,-6.149307,106.816641,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,19,kejaksaan agung,-6.24046,106.798482,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,17,glodok,-6.144448,106.815417,0,1,usj3
+1,blok m - kota,d62126,1-r08,sh,1,20,blok m,-6.243312,106.80175,0,1,mlcx
+1,blok m - kota,d62126,1-r07,sh,0,18,kali besar barat,-6.135355,106.81143,0,1,usj3
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,0,blok m,-6.243312,106.80175,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,0,tanjung priok,-6.10956,106.882156,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,1,asean,-6.239911,106.79897,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,1,pademangan,-6.13369,106.831688,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,10,petojo,-6.169948,106.816978,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,10,rs harapan kita arah selatan,-6.185194,106.79709,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,11,pecenongan,-6.16759,106.828212,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,11,slipi kemanggisan arah selatan,-6.189783,106.797265,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,12,senayan jcc arah timur,-6.214159,106.809044,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,12,juanda,-6.168017,106.830829,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,13,pasar baru,-6.166129,106.83483,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,13,gelora bung karno,-6.224286,106.805761,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,14,bundaran senayan d-e-f,-6.227941,106.800905,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,14,pasar baru timur,-6.162278,106.838066,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,15,jembatan merah,-6.146731,106.83422,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,15,masjid agung,-6.236477,106.798482,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,16,kejaksaan agung,-6.24046,106.798482,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,16,gunung sahari mangga dua,-6.136821,106.832315,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,17,pademangan,-6.133712,106.831591,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,17,blok m,-6.243312,106.80175,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,18,tanjung priok,-6.10956,106.882156,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,2,gunung sahari mangga dua,-6.136805,106.832428,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,2,masjid agung,-6.236472,106.798412,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,3,jembatan merah,-6.146731,106.834332,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,3,bundaran senayan g-h-j,-6.227847,106.800843,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,4,pasar baru timur,-6.162262,106.838163,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,4,gelora bung karno,-6.224212,106.805729,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,5,senayan jcc arah barat,-6.213962,106.808428,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,5,juanda,-6.168086,106.830792,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,6,slipi kemanggisan arah utara,-6.18991,106.796939,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,6,pecenongan,-6.167825,106.828169,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,7,rs harapan kita arah utara,-6.184506,106.796739,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,7,petojo,-6.17001,106.81699,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,8,rs tarakan,-6.17118,106.810133,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,8,tomang mandala,-6.176833,106.800344,0,1,10h-r04_shp
+10h,tanjung priok - blok m,9b1f21,10h-r03,sh,0,9,tomang mandala,-6.176897,106.800386,0,1,10h-r03_shp
+10h,tanjung priok - blok m,9b1f21,10h-r04,sh,1,9,rs tarakan,-6.171114,106.810112,0,1,10h-r04_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,0,bintaro kodam,-6.260196,106.76594,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,1,jln. palatehan,-6.240057,106.800758,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,1,univ. moestopo bintaro,-6.258469,106.76529,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,10,sbr. kec. pesanggrahan,-6.257055,106.75629,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,10,cipulir 1,-6.237918,106.7749,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,11,seskoal 1,-6.238155,106.77231,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,11,kel. pesanggrahan 2,-6.255333,106.756496,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,12,kartini hospital 1,-6.238072,106.76997,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,12,sbr. smpn 235,-6.254607,106.75642,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,13,lemigas,-6.237935,106.76689,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,13,sd kartika x-2,-6.25388,106.75637,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,14,ps. cipulir,-6.237895,106.76523,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,14,smk kartika x-2,-6.252716,106.75631,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,15,ps. pesanggrahan 2,-6.251811,106.75631,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,15,bsi 1,-6.237724,106.76225,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,16,sangrila indah 2,-6.237493,106.75906,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,16,jln. damai raya,-6.248569,106.75674,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,17,sbr. jln. h. nian,-6.245178,106.757087,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,17,sbr. jln. durian i,-6.236342,106.75756,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,18,jln. durian 1,-6.236427,106.75785,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,18,gg. masjid nurul jannah,-6.242995,106.759126,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,19,sbr. sangrila indah,-6.237318,106.75925,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,19,jln. masjid al ikhlas petukangan,-6.241838,106.758427,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,2,flyover bintaro,-6.25748,106.76478,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,2,csw 2,-6.239917,106.797801,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,20,sbr. jln. perdana i,-6.243081,106.75677,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,20,jln. swadarma raya,-6.237451,106.76089,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,21,jln. h. nian,-6.245506,106.757121,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,21,bsi 2,-6.237609,106.76252,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,22,jln. merpati raya pesanggrahan,-6.249642,106.75673,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,22,itc cipulir,-6.237701,106.76515,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,23,sbr. jln. salak pesanggrahan,-6.251278,106.75643,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,23,ps. sayur cipulir,-6.237807,106.7674,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,24,sbr. smk kartika x-2,-6.252352,106.75638,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,24,kartini hospital 2,-6.237876,106.76942,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,25,sbr. sd kartika x-2,-6.25399,106.75647,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,25,seskoal 3,-6.237989,106.771629,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,26,seskoal 2,-6.238015,106.77247,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,26,kel. pesanggrahan 2,-6.255333,106.756496,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,27,cipulir 2,-6.237747,106.774871,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,27,kec. pesanggrahan,-6.256912,106.7564,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,28,sbr. jln. makam,-6.238208,106.77737,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,28,sbr. rumkitban bintaro,-6.258342,106.75628,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,29,sbr. sd kartika x-4,-6.259265,106.75617,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,29,kebayoran baru velbak 2,-6.239272,106.78492,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,3,kolong tol jakarta serpong 1,-6.256082,106.76049,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,3,klinik sasana husada,-6.240106,106.79406,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,30,sdn pesanggrahan 10,-6.259714,106.75688,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,30,singgalang,-6.236849,106.78782,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,31,kodam bintaro,-6.25945,106.75871,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,31,puskesmas kel. gunung,-6.239677,106.790264,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,32,grand centro bintaro,-6.258839,106.75968,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,32,mayestik 2,-6.241772,106.79096,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,33,masjid hifdzirrahim,-6.257359,106.75963,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,33,rs pusat pertamina 2,-6.241189,106.79301,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,34,jln. h. gari,-6.256091,106.75965,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,34,rs pusat pertamina 3,-6.239806,106.79431,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,35,kolong tol jakarta serpong 2,-6.256039,106.76062,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,35,csw 2,-6.239853,106.797838,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,36,m bloc,-6.241445,106.798552,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,36,kolong tol guru saleh,-6.257605,106.76529,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,37,jln. guru saleh,-6.257895,106.76611,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,37,blok m jalur 2,-6.243369,106.80188,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,38,jln. ikpn bintaro,-6.25997,106.76787,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,39,gerbang tol veteran,-6.261369,106.76721,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,4,rs pusat pertamina 1,-6.241352,106.79315,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,4,sbr. jln. beo,-6.256595,106.75966,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,40,rusun rempoa,-6.261641,106.7666,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,41,bintaro kodam,-6.260196,106.76594,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,5,bintaro park view,-6.257977,106.75969,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,5,mayestik 1,-6.242041,106.79116,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,6,sbr. kodam bintaro,-6.259531,106.75878,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,6,simpang gandaria kyai maja,-6.24186,106.79,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,7,jln. gambas kodam bintaro,-6.259766,106.7573,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,7,taman puring,-6.240966,106.78873,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,8,sd kartika x-4,-6.259431,106.75611,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,8,kebayoran baru velbak 1,-6.239561,106.78532,0,1,1c-r02_shp
+1c,pesanggrahan - blok m,d65e62,1c-r01,sh,0,9,yon arhanud - 10 pesanggrahan,-6.258076,106.75626,0,1,1c-r01_shp
+1c,pesanggrahan - blok m,d65e62,1c-r02,sh,1,9,jln. makam,-6.238418,106.77745,0,1,1c-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,0,blok m jalur 3,-6.243426,106.80188,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,0,taman ddn,-6.312565,106.7965,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,1,smpn 85,-6.31244,106.79533,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,1,taman martha tiahahu,-6.242892,106.79838,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,10,sbr. golden fatmawati,-6.27688,106.79783,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,10,smkn 28,-6.284944,106.79578,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,11,rs setia mitra 2,-6.281358,106.79617,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,11,st. cipete raya 1,-6.278374,106.79746,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,12,st. cipete raya 2,-6.278423,106.79716,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,12,rs setia mitra 1,-6.281325,106.7964,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,13,wisma subud,-6.28496,106.79596,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,13,golden fatmawati,-6.276685,106.79761,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,14,jln. mangga,-6.27047,106.79737,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,14,jln. cilandak v,-6.287313,106.79558,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,15,h. nawi jln. madrasah,-6.268026,106.79712,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,15,simpang fatmawati,-6.291232,106.79533,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,16,sbr. itc fatmawati,-6.26343,106.7969,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,16,rs fatmawati,-6.29354,106.79522,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,17,dapsus 1,-6.301135,106.79484,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,17,jln. gotong royong,-6.260007,106.79662,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,18,st. blok a petogogan,-6.254711,106.79713,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,18,one belpark 1,-6.304695,106.79445,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,19,jln. sungai sambas vi,-6.246441,106.7978,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,19,jln. pinang raya,-6.308942,106.79372,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,2,ps. pondok labu,-6.312034,106.79409,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,2,taman panglima polim,-6.251369,106.79751,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,20,plaza blok m,-6.244978,106.79752,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,20,graha werdatama pondok labu,-6.309163,106.79461,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,21,sekolahan kwitang 6 pskd,-6.241543,106.79607,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,21,jln. pinang ii pondok labu,-6.310414,106.79665,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,22,jln. bulungan 2,-6.239771,106.79658,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,22,taman ddn,-6.312565,106.7965,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,23,blok m jalur 3,-6.243426,106.80188,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,3,jln. h. ipin,-6.311098,106.79357,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,3,st. blok a dharmawangsa,-6.254652,106.79733,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,4,jln. h. muslim,-6.309044,106.79365,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,4,grand wijaya dharmawangsa,-6.254752,106.80034,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,5,simpang darmawangsa x,-6.257555,106.80048,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,5,one belpark 2,-6.303784,106.79445,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,6,dapsus 2,-6.301728,106.79463,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,6,jln. rejo,-6.259506,106.79685,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,7,kantor pos fatmawati,-6.294496,106.79505,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,7,itc fatmawati,-6.26352,106.79716,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,8,jln. banjarsari ii,-6.291119,106.79511,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,8,h. nawi jln. timbul,-6.268439,106.79744,0,1,1e-r02_shp
+1e,pondok labu - blok m,d65e62,1e-r01,sh,0,9,ps. mede,-6.286739,106.79553,0,1,1e-r01_shp
+1e,pondok labu - blok m,d65e62,1e-r02,sh,1,9,gg. h. ayub,-6.270874,106.79762,0,1,1e-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,0,cibubur junction,-6.368735,106.89366,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,0,blok m jalur 4,-6.243474,106.80188,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,1,direktorat jenderal pajak,-6.224628,106.81558,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,1,kementerian pupr,-6.236169,106.80156,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,10,buperta cibubur,-6.369608,106.896189,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,11,cibubur junction,-6.368735,106.89366,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,2,komdak 1,-6.222333,106.81407,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,2,bundaran senayan 2,-6.227877,106.80068,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,3,fx sudirman,-6.225532,106.8037,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,3,polda metro jaya 1,-6.221726,106.80984,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,4,gelora bung karno 2,-6.224126,106.80558,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,4,menara mandiri,-6.223667,106.8071,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,5,gelora bung karno 1,-6.224642,106.8056,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,5,gbk pintu 7,-6.222095,106.80861,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,6,summitmas,-6.225826,106.80402,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,6,komdak 2,-6.221715,106.81426,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,7,bundaran senayan 1,-6.227445,106.80187,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,7,kartika candra,-6.228333,106.81878,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r01,hk,0,8,blok m jalur 4,-6.243474,106.80188,0,1,1k-r01_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,8,rest area tmii,-6.29467,106.8812,0,1,1k-r02_shp
+1k,cibubur junction - blok m,9c4782,1k-r02,hk,1,9,rest area cibubur,-6.339993,106.89078,0,1,1k-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,0,blok m jalur 3,-6.243426,106.80188,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,0,meruya taman aries,-6.19167,106.74536,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,1,jln. palatehan,-6.240057,106.800758,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,1,ruko aries niaga,-6.192569,106.74462,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,10,seskoal 1,-6.238155,106.77231,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,10,komplek bppt,-6.194517,106.7556,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,11,kartini hospital 1,-6.238072,106.76997,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,11,puri park view,-6.192136,106.75572,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,12,jln. pesanggrahan meruya utara,-6.19303,106.755736,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,12,lemigas,-6.237935,106.76689,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,13,sdn meruya utara 03 04,-6.194736,106.75583,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,13,ps. cipulir,-6.237895,106.76523,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,14,mitra 10 meruya ilir,-6.196032,106.75605,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,14,jln. ulujami raya,-6.238067,106.763721,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,15,simpang srengseng meruya ilir 1,-6.197437,106.75633,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,15,bsi 1,-6.237724,106.76225,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,16,jln. swadarma i,-6.235473,106.76071,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,16,sbr. jln. anggrek srengseng,-6.198239,106.75622,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,17,jln. swadarma iii,-6.232719,106.76064,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,17,sbr. jln. flamboyan srengseng,-6.201447,106.75576,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,18,jln. swadarma utara,-6.229106,106.76056,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,18,sbr. kel. srengseng,-6.203332,106.75689,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,19,jln. lapangan tenis srengseng,-6.205207,106.7583,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,19,jln. swadarma utara vi,-6.227071,106.76054,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,2,csw 2,-6.239917,106.797801,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,2,pospol taman aries,-6.195419,106.7442,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,20,jln. pemancingan srengseng,-6.206771,106.7586,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,20,sbr. jln. kampung baru v,-6.225077,106.76062,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,21,smk satria srengseng,-6.208852,106.75889,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,21,sbr. jln. kampung baru vii,-6.223256,106.76062,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,22,jln. bambu ii srengseng,-6.211011,106.75922,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,22,jln. karya mandiri srengseng,-6.219143,106.76028,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,23,jln. karya sari srengseng,-6.216531,106.76011,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,23,sbr. sman 85,-6.215296,106.75997,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,24,jln. karya sakti srengseng,-6.216001,106.76008,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,24,sman 85,-6.215171,106.75989,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,25,spbu srengseng raya,-6.218822,106.76037,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,25,sbr. jln. bambu ii srengseng,-6.210918,106.75912,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,26,jln. karya bakti srengseng,-6.220785,106.76032,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,26,sbr. smk satria srengseng,-6.208822,106.75881,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,27,jln. kampung baru v swadarma,-6.224839,106.76071,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,27,jln. bambu i srengseng,-6.2067,106.75853,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,28,jln. h. nasir srengseng,-6.205389,106.75825,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,28,jln. kampung baru ii swadarma,-6.227325,106.76059,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,29,kel. srengseng,-6.203472,106.75694,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,29,green permata,-6.229061,106.76065,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,3,sbr. masjid nurul iman kubur batu,-6.197464,106.74467,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,3,rs pusat pertamina 1,-6.241352,106.79315,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,30,jln. h. rohimin swadarma,-6.232466,106.76069,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,30,jln. flamboyan srengseng,-6.201831,106.75594,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,31,jln. anggrek srengseng,-6.19818,106.75616,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,31,jln. h. ridi swadarma,-6.235424,106.76077,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,32,jln. swadarma raya,-6.237451,106.76089,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,32,simpang srengseng meruya ilir 2,-6.197304,106.75623,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,33,bsi 2,-6.237609,106.76252,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,33,simpang meruya ilir 2,-6.196802,106.75542,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,34,itc cipulir,-6.237701,106.76515,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,34,spbu meruya ilir,-6.197309,106.753939,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,35,ps. sayur cipulir,-6.237807,106.7674,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,35,carrefour meruya ilir,-6.197521,106.75129,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,36,ruko meruya ilir,-6.197437,106.75067,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,36,kartini hospital 2,-6.237876,106.76942,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,37,ruko taman kb. jeruk,-6.197388,106.74818,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,37,seskoal 3,-6.237989,106.771629,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,38,seskoal 2,-6.238015,106.77247,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,38,superindo meruya ilir,-6.197636,106.74562,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,39,cipulir 2,-6.237747,106.774871,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,39,masjid nurul iman kubur batu,-6.197613,106.74443,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,4,aries utama iii,-6.197454,106.74602,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,4,mayestik 1,-6.242041,106.79116,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,40,sbr. jln. makam,-6.238208,106.77737,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,40,pondok yatim kembang kerep,-6.196073,106.74241,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,41,kebayoran baru velbak 2,-6.239272,106.78492,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,41,kec. kembangan,-6.195068,106.74247,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,42,meruya taman aries,-6.19167,106.74536,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,42,singgalang,-6.236849,106.78782,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,43,puskesmas kel. gunung,-6.239677,106.790264,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,44,mayestik 2,-6.241772,106.79096,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,45,rs pusat pertamina 2,-6.241189,106.79301,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,46,rs pusat pertamina 3,-6.239806,106.79431,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,47,csw 2,-6.239853,106.797838,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,48,m bloc,-6.241445,106.798552,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,49,blok m jalur 3,-6.243426,106.80188,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,5,simpang gandaria kyai maja,-6.24186,106.79,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,5,olieku jln. aries permai,-6.197188,106.74819,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,6,taman puring,-6.240966,106.78873,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,6,aries utama,-6.197385,106.75145,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,7,sbr. spbu meruya ilir,-6.197275,106.75357,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,7,kebayoran baru velbak 1,-6.239561,106.78532,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,8,jln. makam,-6.238418,106.77745,0,1,1m-r02_shp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,8,simpang meruya ilir 1,-6.196682,106.75517,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r03,sh,1,9,sbr. jln. jomas,-6.195735,106.75584,0,1,bctp
+1m,meruya - blok m,d65e62,1m-r02,sh,0,9,cipulir 1,-6.237918,106.7749,0,1,1m-r02_shp
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,0,transjakarta tanah abang 2,-6.183918,106.811601,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,1,jln. taman jatibaru timur,-6.182778,106.8129,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,1,kementerian pupr,-6.236169,106.80156,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,10,tosari 3,-6.200069,106.82335,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,10,dukuh atas 4,-6.204819,106.8221,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,11,dukuh atas 3,-6.20565,106.8225,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,11,st. sudirman 2,-6.201883,106.82277,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,12,tosari 2,-6.198915,106.82295,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,12,bumiputera,-6.206839,106.82234,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,13,plaza indonesia,-6.193733,106.8228,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,13,karet sudirman k-l-m,-6.212511,106.820052,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,14,mh thamrin 2,-6.188238,106.82277,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,14,flyover karet 2,-6.214808,106.81847,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,15,plaza sentral,-6.216247,106.81676,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,15,sbr. jln. kampung bali xxxiii,-6.187046,106.82189,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,16,jln. kb. kacang x,-6.18713,106.8201,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,16,polda metro jaya,-6.221129,106.81031,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,17,gelora bung karno 1,-6.224642,106.8056,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,17,jln. kb. kacang viii,-6.187181,106.81827,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,18,summitmas,-6.225826,106.80402,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,18,simpang blok a,-6.187214,106.81611,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,19,bundaran senayan 1,-6.227445,106.80187,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,19,tanah abang auri,-6.186064,106.81536,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,2,bundaran senayan 2,-6.227877,106.80068,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,2,tanah abang 2,-6.181926,106.81409,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,20,taman patimura,-6.232872,106.80081,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,20,blok e,-6.18497,106.81463,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,21,jln. palatehan,-6.240057,106.800758,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,21,pharmin,-6.182988,106.81306,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,22,m bloc,-6.241445,106.798552,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,22,explorer tanah abang,-6.184305,106.81158,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,23,blok m jalur 2,-6.243369,106.80188,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,23,blok f,-6.188552,106.81249,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,24,pospol jati bunder,-6.189707,106.81317,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,25,jpo blok g,-6.188861,106.81135,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,26,transjakarta tanah abang 2,-6.183918,106.811601,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,3,fx sudirman,-6.225532,106.8037,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,3,smkn 38,-6.181971,106.8174,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,4,gelora bung karno 2,-6.224126,106.80558,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,4,jembatan serong,-6.182204,106.81814,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,5,polda metro jaya,-6.221044,106.810241,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,5,wisma mandiri,-6.18372,106.82322,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,6,benhil 3,-6.21601,106.81632,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,6,sari pan pacific,-6.185037,106.82325,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,7,mh thamrin 1,-6.188081,106.82317,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,7,karet sudirman d-e-f,-6.212352,106.819981,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,8,grand sahid,-6.210975,106.82059,0,1,zn7l
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,8,wisma nusantara,-6.193425,106.82319,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r05,sh,0,9,tosari 1,-6.199166,106.82334,0,1,fuvn
+1n,tanah abang - blok m,d65e62,1n-r06,sh,1,9,menara astra,-6.207361,106.8219,0,1,zn7l
+1p,senen - blok m,d65e62,1p-r04,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,0,term. senen,-6.17356,106.84213,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,1,kementerian pupr,-6.236169,106.80156,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,1,kel. senen,-6.172453,106.84292,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,10,gunung agung,-6.181755,106.83717,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,10,grand sahid,-6.210975,106.82059,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,11,telkom grapari,-6.18222,106.83297,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,11,menara astra,-6.207361,106.8219,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,12,dukuh atas 4,-6.204819,106.8221,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,12,balai kota 1,-6.180598,106.82847,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,13,st. sudirman 2,-6.201883,106.82277,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,13,perpustakaan nasional,-6.180673,106.82643,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,14,tosari 2,-6.198915,106.82295,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,14,dana reksa,-6.181365,106.82451,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,15,wisma mandiri,-6.18372,106.82322,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,15,plaza indonesia,-6.193733,106.8228,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,16,mh thamrin 2,-6.188238,106.82277,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,16,sari pan pacific,-6.185037,106.82325,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,17,mh thamrin 1,-6.188081,106.82317,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,17,menara thamrin,-6.185275,106.82291,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,18,bank indonesia 2,-6.182667,106.82275,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,18,wisma nusantara,-6.193425,106.82319,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,19,tosari 1,-6.199166,106.82334,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,19,kementerian pariwisata,-6.1795,106.82255,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,2,taman mataram,-6.232899,106.80053,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,2,bangau vi,-6.169278,106.84271,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,20,tosari 3,-6.200069,106.82335,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,20,museum nasional,-6.176403,106.82263,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,21,dukuh atas 3,-6.20565,106.8225,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,21,monas 2,-6.175999,106.82311,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,22,bumiputera,-6.206839,106.82234,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,22,monas 3,-6.178787,106.82304,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,23,irti,-6.1803,106.82618,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,23,chase plaza,-6.210571,106.82129,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,24,gambir 3,-6.178796,106.83095,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,24,karet sudirman 1,-6.212995,106.82,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,25,st. gambir 2,-6.175681,106.830729,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,25,flyover karet 2,-6.214808,106.81847,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,26,plaza sentral,-6.216247,106.81676,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,26,istiqlal 1,-6.172371,106.83071,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,27,gelora bung karno 1,-6.224642,106.8056,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,27,pasar baru gedung kesenian jakarta,-6.166751,106.83524,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,28,kantor pos lapangan banteng,-6.16877,106.83507,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,28,summitmas,-6.225826,106.80402,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,29,bundaran senayan 1,-6.227445,106.80187,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,29,lapangan banteng 1,-6.1713,106.83368,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,3,bundaran senayan 2,-6.227877,106.80068,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,3,simpang gunung sahari iii,-6.167903,106.84174,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,30,lapangan banteng 2,-6.171659,106.83527,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,30,taman patimura,-6.232872,106.80081,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,31,jln. palatehan,-6.240057,106.800758,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,31,ojk wahidin,-6.170629,106.837713,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,32,m bloc,-6.241445,106.798552,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,32,wahidin 1,-6.169862,106.83936,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,33,blok m jalur 2,-6.243369,106.80188,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,33,gg. buaya senen,-6.172646,106.840925,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,34,term. senen,-6.17356,106.84213,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,4,fx sudirman,-6.225532,106.8037,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,4,sekolah penabur gunung sahari,-6.170053,106.84024,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,5,ps. senen jaya,-6.177735,106.84216,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,5,gelora bung karno 2,-6.224126,106.80558,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,6,atrium 1,-6.177759,106.8412,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,6,gbk pintu 7,-6.222095,106.80861,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,7,benhil 3,-6.21601,106.81632,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,7,rspad 1,-6.176162,106.83987,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,8,karet sudirman 2,-6.213105,106.81936,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,8,rspad 2,-6.177322,106.83824,0,1,1p-r03_shp
+1p,senen - blok m,d65e62,1p-r04,sh,1,9,karet sudirman 3,-6.212197,106.81995,0,1,1p-r04_shp
+1p,senen - blok m,d65e62,1p-r03,sh,0,9,museum kebangkitan,-6.178915,106.83877,0,1,1p-r03_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,0,cempaka,-6.277541,106.76223,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,0,blok m jalur 3,-6.243426,106.80188,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,1,taman martha tiahahu,-6.242892,106.79838,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,1,sbr. kel. bintaro,-6.272947,106.76394,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,10,jln. duku raya,-6.245761,106.78413,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,10,perlintasan bendi utama,-6.249439,106.77439,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,11,pertamina bina medika,-6.253111,106.77389,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,11,jln. bungur,-6.247708,106.7814,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,12,kebayoran lama bungur,-6.252688,106.781668,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,12,jln. bendi baru,-6.253319,106.77658,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,13,jln. pelita,-6.250861,106.7782,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,13,tanah kusir kodim,-6.256997,106.781727,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,14,kantor pos kebayoran lama,-6.249119,106.778,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,14,masjid pondok indah 1,-6.261581,106.78234,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,15,masjid pondok indah 2,-6.261469,106.78201,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,15,tpu bungur,-6.247208,106.77889,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,16,pool taksi tanah kusir,-6.254506,106.77741,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,16,perlintasan kereta api kebayoran,-6.240914,106.78098,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,17,masjid raya nurul hidayah,-6.253434,106.77626,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,17,st. kebayoran,-6.239001,106.78198,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,18,jln. nimun raya,-6.253204,106.77344,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,18,simpang kramat ii,-6.235583,106.78529,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,19,puskesmas kel. gunung,-6.239677,106.790264,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,19,pool express tanah kusir,-6.255345,106.76911,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,2,jln. sungai sambas vi,-6.246441,106.7978,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,2,simpang deplu veteran raya,-6.271822,106.76451,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,20,mayestik 2,-6.241772,106.79096,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,20,jln. ikpn bintaro,-6.25997,106.76787,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,21,rs pusat pertamina 2,-6.241189,106.79301,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,21,gerbang tol veteran,-6.261369,106.76721,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,22,rs pusat pertamina 3,-6.239806,106.79431,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,22,exit tol veteran bintaro,-6.262649,106.76654,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,23,sbr. jln. depsos raya,-6.263684,106.76637,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,23,csw 2,-6.239853,106.797838,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,24,blok m jalur 3,-6.243426,106.80188,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,24,rs dr suyoto,-6.267779,106.76599,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,25,bercabuana sakti,-6.270086,106.76549,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,26,kel. bintaro,-6.273047,106.76405,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,27,jln. perdagangan bintaro,-6.27461,106.7633,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,28,graha nusantara,-6.276867,106.76244,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,29,cempaka,-6.277541,106.76223,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,3,sbr. bercabuana sakti,-6.269784,106.76547,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,3,csw 2,-6.239917,106.797801,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,4,klinik sasana husada,-6.240106,106.79406,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,4,sbr. rs dr suyoto,-6.267609,106.7659,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,5,rs pusat pertamina 1,-6.241352,106.79315,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,5,spbu shell rempoa,-6.265358,106.76615,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,6,jln. depsos raya,-6.263491,106.7663,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,6,mayestik 1,-6.242041,106.79116,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,7,veteran,-6.259892,106.76777,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,7,simpang gandaria kyai maja,-6.24186,106.79,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,8,lapangan hankam,-6.258139,106.76796,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,8,taman puring 2,-6.242596,106.78793,0,1,1q-r02_shp
+1q,rempoa - blok m,d65e62,1q-r01,sh,0,9,masjid jami al muflihun,-6.255722,106.76884,0,1,1q-r01_shp
+1q,rempoa - blok m,d65e62,1q-r02,sh,1,9,one park residences,-6.245436,106.78844,0,1,1q-r02_shp
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,0,plaza st. manggarai,-6.210225,106.85099,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,1,asean,-6.239911,106.79897,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,1,manggarai,-6.208922,106.84732,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,10,kuningan timur,-6.234744,106.82907,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,10,departemen kesehatan,-6.228825,106.833168,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,11,jamsostek,-6.233804,106.82229,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,11,gor sumantri,-6.221647,106.832235,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,12,gatot subroto lipi arah barat,-6.227453,106.817652,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,12,karet kuningan,-6.216719,106.830738,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,13,kuningan madya,-6.213466,106.830459,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,13,komdak 1,-6.222333,106.81407,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,14,gelora bung karno,-6.224286,106.805761,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,14,setiabudi utara,-6.209221,106.830212,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,15,bundaran senayan d-e-f,-6.227941,106.800905,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,15,latuharhary,-6.202779,106.827655,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,16,masjid agung,-6.236477,106.798482,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,16,halimun 3,-6.205187,106.834732,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,17,kejaksaan agung,-6.24046,106.798482,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,17,pasar rumput,-6.207067,106.841128,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,18,blok m jalur 2,-6.243369,106.80188,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,18,manggarai,-6.208867,106.8473,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,19,timur st. manggarai,-6.209763,106.8511,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,2,masjid agung,-6.236472,106.798412,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,2,pasar rumput,-6.207149,106.8411,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,20,plaza st. manggarai,-6.210225,106.85099,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,3,halimun 4,-6.20509,106.832571,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,3,bundaran senayan g-h-j,-6.227847,106.800843,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,4,gelora bung karno,-6.224212,106.805729,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,4,setiabudi utara,-6.209205,106.830271,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,5,komdak 2,-6.221715,106.81426,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,5,kuningan madya,-6.213407,106.830497,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,6,karet kuningan,-6.216644,106.830765,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,6,gatot subroto lipi arah timur,-6.226484,106.817397,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,7,gor sumantri,-6.221588,106.832272,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,7,jamsostek 3,-6.231443,106.820876,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,8,departemen kesehatan,-6.228745,106.833227,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,8,kuningan timur,-6.234712,106.829043,0,1,11om
+6m,stasiun manggarai - blok m,4cac67,6m-r01,sh,0,9,patra kuningan,-6.232648,106.832106,0,1,qa3s
+6m,stasiun manggarai - blok m,4cac67,6m-r02,sh,1,9,patra kuningan,-6.232675,106.832042,0,1,11om
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,0,term. ragunan,-6.305594,106.8202,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,1,pln corporate university 1,-6.300374,106.82113,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,1,hotel ambhara blok m,-6.243499,106.80318,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,10,jln. kemang selatan i,-6.264858,106.81618,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,10,arsip nasional ri 1,-6.279439,106.81987,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,11,sbr. jln. kemang selatan viii,-6.268532,106.8157,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,11,pertigaan pejaten barat,-6.275464,106.82066,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,12,simpang kemang selatan 1,-6.274242,106.82066,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,12,sbr. plaza kemang 88,-6.270024,106.81553,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,13,sbr. villa ampera,-6.273031,106.81562,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,13,jln. villa ampera,-6.273183,106.81589,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,14,simpang kemang selatan 2,-6.274106,106.82045,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,14,plaza kemang 88,-6.270202,106.81539,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,15,arsip nasional ri 2,-6.279481,106.81995,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,15,kemang 8,-6.268802,106.81555,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,16,kemang raya 40,-6.265429,106.81602,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,16,pengadilan negeri jaksel 2,-6.280584,106.81982,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,17,lppi 1,-6.261622,106.81565,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,17,komplek polri ragunan,-6.283756,106.81918,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,18,rsia kemang,-6.285839,106.8188,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,18,kemang 4,-6.260102,106.81537,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,19,ampera 4,-6.291345,106.8172,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,19,simpang kemang 1,-6.25803,106.81504,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,2,yayasan al kholidin,-6.246823,106.80566,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,2,bumi perkemahan ragunan,-6.295825,106.82153,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,20,masjid nurul falah,-6.257714,106.81326,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,20,ampera 1,-6.292069,106.81774,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,21,kementerian pertanian,-6.29705,106.82127,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,21,jln. kemang 1,-6.255574,106.8118,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,22,pln corporate university 2,-6.300935,106.82136,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,22,jln. taman kemang,-6.255317,106.8095,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,23,term. ragunan,-6.305594,106.8202,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,23,simpang dharmawangsa viii,-6.253614,106.80792,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,24,puskesmas kebayoran baru,-6.247225,106.80572,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,25,kejaksaan agung,-6.24046,106.798482,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,26,blok m jalur 2,-6.243369,106.80188,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,3,rsud pasar minggu,-6.293553,106.82083,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,3,kantor walikota jaksel,-6.249147,106.80791,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,4,ampera 3,-6.291196,106.81706,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,4,kel. pulo,-6.250962,106.80962,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,5,taman kemang raya,-6.255214,106.81045,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,5,sekolah sumbangsih,-6.290013,106.8177,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,6,sbr. jln. kemang ii,-6.256487,106.8149,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,6,ampera garden,-6.288794,106.81818,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,7,plaza adorama,-6.258301,106.81519,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,7,jln. kenanga,-6.287468,106.81848,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,8,stpdn,-6.28439,106.81899,0,1,67gz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,8,jln. kemang iii,-6.260088,106.81548,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r06,sh,1,9,lppi,-6.262043,106.81581,0,1,q8bz
+6n,ragunan - blok m via kemang,4cac67,6n-r05,sh,0,9,pengadilan negeri jaksel 1,-6.281672,106.81949,0,1,67gz
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,0,blok m jalur 3,-6.243426,106.80188,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,0,sbr. kel. ps. minggu,-6.285514,106.84058,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,1,gunawarman 1,-6.237947,106.80724,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,1,robinson,-6.285104,106.84358,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,10,kantor pos mampang,-6.240216,106.82259,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,10,tti center,-6.2862,106.8339,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,11,transvision,-6.240036,106.82842,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,11,karang pol,-6.286162,106.83146,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,12,tendean 1,-6.240326,106.8304,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,12,jati padang 1,-6.285553,106.8261,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,13,mandiri griya mampang,-6.240269,106.82884,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,13,pejaten 1,-6.278228,106.82969,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,14,buncit indah 1,-6.274,106.83019,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,14,smpn 43,-6.240281,106.82639,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,15,mampang prapatan,-6.242737,106.825744,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,15,warung jati,-6.262377,106.829762,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,16,imigrasi,-6.25697,106.828067,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,16,duren tiga,-6.252389,106.826988,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,17,imigrasi,-6.256965,106.828104,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,17,duren tiga,-6.252395,106.826956,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,18,mampang 5,-6.24539,106.82584,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,18,warung jati,-6.262356,106.829783,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,19,buncit indah 2,-6.274071,106.83047,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,19,mampang prapatan 2,-6.242094,106.82556,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,2,gunawarman 2,-6.234276,106.80756,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,2,poltangan 1,-6.294464,106.84131,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,20,jln. bangka i,-6.240656,106.82043,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,20,pejaten 2,-6.278368,106.82994,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,21,jati padang 2,-6.285637,106.82632,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,21,jln. poncol jaya 1,-6.239706,106.81889,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,22,rengas,-6.238871,106.81704,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,22,koperasi,-6.285978,106.83071,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,23,wolter monginsidi,-6.238799,106.81376,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,23,sman 28,-6.286109,106.83318,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,24,ps. santa,-6.238971,106.8126,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,24,kel. jati padang,-6.285899,106.83476,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,25,cikajang wolter monginsidi,-6.239122,106.81084,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,25,kec. pasar minggu,-6.285563,106.8353,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,26,smu balai rakyat,-6.285105,106.83694,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,26,tirtayasa 1,-6.239279,106.80756,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,27,pln pusat,-6.240011,106.80376,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,27,sbr. kel. ps. minggu,-6.285514,106.84058,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,28,jln. palatehan,-6.240057,106.800758,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,29,m bloc,-6.241445,106.798552,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,3,senopati,-6.230687,106.80809,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,3,rawa bambu,-6.294753,106.84078,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,30,blok m jalur 3,-6.243426,106.80188,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,4,mja rawa bambu,-6.292069,106.84179,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,4,sd 01 taman mpu sendok,-6.231785,106.81025,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,5,taman suryo,-6.233753,106.81265,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,5,grand pasar minggu,-6.290648,106.84236,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,6,jln. pertanian iii,-6.287641,106.84267,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,6,lapangan blok s,-6.237011,106.81421,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,7,simpang rawa barat,-6.238408,106.81489,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,7,direktorat jenderal hortikultura,-6.285538,106.8393,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,8,litbang pertanian,-6.285245,106.83725,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,8,rawa barat 1,-6.238813,106.8159,0,1,j9gs
+6u,pasar minggu - blok m,4cac67,6u-r02,sh,1,9,sbr. kec. pasar minggu,-6.285526,106.83549,0,1,b0x4
+6u,pasar minggu - blok m,4cac67,6u-r01,sh,0,9,jln. poncol jaya 2,-6.239441,106.81883,0,1,j9gs
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,0,kampung rambutan,-6.30994,106.882186,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,0,blok m jalur 2,-6.243369,106.80188,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,1,gunawarman 1,-6.237947,106.80724,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,1,smpn 188,-6.307289,106.87793,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,10,jakarta islamic hospital,-6.299909,106.86966,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,10,kantor pos mampang,-6.240216,106.82259,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,11,transvision,-6.240036,106.82842,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,11,pintu keluar ps. induk,-6.295914,106.87165,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,12,pasar induk kramat jati,-6.294219,106.872017,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,12,tendean,-6.24021,106.830969,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,13,sbr. polsek ciracas,-6.290414,106.87138,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,13,smpn 43,-6.240281,106.82639,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,14,ps. hek 1,-6.286298,106.87083,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,14,mampang prapatan,-6.242663,106.825744,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,15,mampang 10,-6.249742,106.826708,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,15,bulak rantai,-6.284664,106.87123,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,16,duren tiga 1,-6.252132,106.82702,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,16,budiwarman 1,-6.279071,106.87019,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,17,rs pusdikkes,-6.277538,106.86917,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,17,pertigaan duren tiga raya,-6.254221,106.82769,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,18,dammara,-6.25419,106.83146,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,18,gg. ayama,-6.27204,106.8671,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,19,rs polri jaktim,-6.27067,106.86732,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,19,swadaya,-6.253975,106.83288,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,2,gunawarman 2,-6.234276,106.80756,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,2,gg. ali,-6.307683,106.87636,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,20,pln duren tiga 2,-6.254234,106.83445,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,20,pasar kramat jati,-6.26881,106.866589,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,21,jln. veteran 2,-6.253771,106.83574,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,21,cililitan,-6.263311,106.86524,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,22,cililitan kecil,-6.261889,106.86423,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,22,jln. minyak raya,-6.253372,106.83813,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,23,jambul,-6.259055,106.86404,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,23,rsia duren tiga 2,-6.253509,106.84135,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,24,plaza kalibata,-6.256423,106.85566,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,24,jln. bina harapan,-6.254258,106.84271,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,25,kalibata city 1,-6.255951,106.85404,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,25,tmp kalibata,-6.255523,106.84561,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,26,kalibata city 2,-6.255816,106.85237,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,26,stekpi,-6.255574,106.84966,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,27,danau tmp kalibata,-6.255698,106.84944,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,27,sbr. kalibata square,-6.255574,106.85167,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,28,potlot,-6.254634,106.84265,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,28,st. duren kalibata 1,-6.255579,106.85422,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,29,st. duren kalibata 2,-6.256101,106.855806,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,29,rsia duren tiga 1,-6.253592,106.8413,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,3,senopati,-6.230687,106.80809,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,3,tanah merdeka arah barat,-6.308216,106.87393,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,30,pertigaan dewi sartika,-6.258864,106.864131,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,30,sman 55,-6.253455,106.83867,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,31,jln. veteran 1,-6.253781,106.83581,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,31,yayasan mambaul ula,-6.25935,106.8643,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,32,pln duren tiga 1,-6.254389,106.83416,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,32,pgc,-6.261811,106.8643,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,33,simpang raya bogor cililitan,-6.264191,106.86585,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,33,komplek polri duren tiga,-6.254275,106.830853,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,34,duren tiga,-6.252395,106.826956,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,34,rs restu kasih,-6.26606,106.86598,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,35,mampang 5,-6.24539,106.82584,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,35,pasar kramat jati,-6.26876,106.866674,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,36,mampang prapatan,-6.242748,106.825685,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,36,lippo mall kramat jati,-6.270835,106.86741,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,37,jln. batu tumbuh,-6.272596,106.86722,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,37,lintas atas kuningan mampang,-6.237898,106.82676,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,38,pusdikkes,-6.277665,106.869455,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,38,transvision,-6.240036,106.82842,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,39,budiwarman 2,-6.279048,106.870363,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,39,tendean,-6.240215,106.830883,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,4,jln. asmin 2,-6.308725,106.87205,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,4,sd 01 taman mpu sendok,-6.231785,106.81025,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,40,kec. kramat jati,-6.284472,106.87141,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,40,rawa barat,-6.238957,106.816241,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,41,tirtayasa,-6.239238,106.807773,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,41,ps. hek 2,-6.286261,106.87094,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,42,pasar induk kramat jati,-6.294223,106.8721,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,42,kejaksaan agung,-6.24046,106.798482,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,43,rs harapan bunda,-6.301977,106.868061,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,43,blok m jalur 2,-6.243369,106.80188,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,44,flyover raya bogor,-6.3065,106.8657,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,45,jln. ar ridho,-6.308148,106.86935,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,46,rs jantung binawaluya,-6.30841,106.87071,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,47,tanah merdeka arah timur,-6.307866,106.87389,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,48,jln. mastrip,-6.306793,106.87756,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,49,sbr. term. kampung rambutan,-6.306068,106.88003,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,5,taman suryo,-6.233753,106.81265,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,5,supriyadi,-6.308998,106.87046,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,50,term. kampung rambutan 3,-6.309795,106.883088,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,51,kampung rambutan,-6.30994,106.882186,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,6,lapangan blok s,-6.237011,106.81421,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,6,jln. makmur,-6.30788,106.86715,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,7,flyover raya bogor,-6.306618,106.86565,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,7,simpang rawa barat,-6.238408,106.81489,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,8,jln. trikora,-6.304918,106.86567,0,1,7b-r03_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,8,rawa barat 1,-6.238813,106.8159,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r02,sh,1,9,jln. poncol jaya 2,-6.239441,106.81883,0,1,7b-r02_shp
+7b,kampung rambutan - blok m,916131,7b-r03,sh,0,9,rs harapan bunda,-6.301945,106.868002,0,1,7b-r03_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,0,blok m jalur 2,-6.243369,106.80188,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,0,pgc,-6.261811,106.8643,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,1,gunawarman 1,-6.237947,106.80724,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,1,mushola at taufiq,-6.261415,106.86704,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,10,kalibata city 2,-6.255816,106.85237,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,10,kantor pos mampang,-6.240216,106.82259,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,11,transvision,-6.240036,106.82842,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,11,danau tmp kalibata,-6.255698,106.84944,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,12,mandiri griya mampang,-6.240269,106.82884,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,12,potlot,-6.254634,106.84265,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,13,smpn 43,-6.240281,106.82639,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,13,rsia duren tiga 1,-6.253592,106.8413,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,14,mampang prapatan 1,-6.242554,106.82585,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,14,sman 55,-6.253455,106.83867,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,15,jln. veteran 1,-6.253781,106.83581,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,15,duren tiga 1,-6.252132,106.82702,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,16,pertigaan duren tiga raya,-6.254221,106.82769,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,16,pln duren tiga 1,-6.254389,106.83416,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,17,dammara,-6.25419,106.83146,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,17,komplek polri duren tiga,-6.254275,106.830853,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,18,swadaya,-6.253975,106.83288,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,18,duren tiga 2,-6.251908,106.82677,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,19,pln duren tiga 2,-6.254234,106.83445,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,19,sbr. jln. mampang prapatan vi,-6.247118,106.82606,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,2,bphn,-6.259724,106.86834,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,2,gunawarman 2,-6.234276,106.80756,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,20,jln. veteran 2,-6.253771,106.83574,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,20,mampang 5,-6.24539,106.82584,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,21,mampang prapatan 2,-6.242094,106.82556,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,21,jln. minyak raya,-6.253372,106.83813,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,22,rsia duren tiga 2,-6.253509,106.84135,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,22,lintas atas kuningan mampang,-6.237898,106.82676,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,23,jln. bina harapan,-6.254258,106.84271,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,23,tendean 1,-6.240326,106.8304,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,24,tmp kalibata,-6.255523,106.84561,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,24,jln. bangka i,-6.240656,106.82043,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,25,stekpi,-6.255574,106.84966,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,25,jln. poncol jaya 1,-6.239706,106.81889,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,26,sbr. kalibata square,-6.255574,106.85167,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,26,wolter monginsidi,-6.238799,106.81376,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,27,st. duren kalibata 1,-6.255579,106.85422,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,27,ps. santa,-6.238971,106.8126,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,28,st. duren kalibata 2,-6.256101,106.855806,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,28,cikajang wolter monginsidi,-6.239122,106.81084,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,29,pertigaan dewi sartika,-6.258864,106.864131,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,29,tirtayasa 1,-6.239279,106.80756,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,3,senopati,-6.230687,106.80809,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,3,bkn 1,-6.258026,106.86955,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,30,yayasan mambaul ula,-6.25935,106.8643,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,30,pln pusat,-6.240011,106.80376,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,31,pgc,-6.261811,106.8643,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,31,jln. palatehan,-6.240057,106.800758,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,32,m bloc,-6.241445,106.798552,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,33,blok m jalur 2,-6.243369,106.80188,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,4,sd 01 taman mpu sendok,-6.231785,106.81025,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,4,bkn 2,-6.258262,106.86984,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,5,taman suryo,-6.233753,106.81265,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,5,kel. cililitan,-6.259599,106.86875,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,6,lapangan blok s,-6.237011,106.81421,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,6,cililitan kecil,-6.261889,106.86423,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,7,simpang rawa barat,-6.238408,106.81489,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,7,jambul,-6.259055,106.86404,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,8,plaza kalibata,-6.256423,106.85566,0,1,7q-r02_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,8,rawa barat 1,-6.238813,106.8159,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r01,hk,0,9,jln. poncol jaya 2,-6.239441,106.81883,0,1,7q-r01_shp
+7q,blok m - pgc,916131,7q-r02,hk,1,9,kalibata city 1,-6.255951,106.85404,0,1,7q-r02_shp
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,0,blok m jalur 3,-6.243426,106.80188,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,0,joglo,-6.220009,106.74171,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,1,gerbang tol joglo 2,-6.218702,106.74425,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,1,jln. palatehan,-6.240057,106.800758,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,10,kebayoran lama bungur 1,-6.252854,106.78179,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,10,perum villa kelapa dua,-6.216674,106.76745,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,11,tanah kusir kodim 1,-6.257082,106.78182,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,11,jln. kelapa dua,-6.216557,106.76997,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,12,perumahan purna dharma,-6.216334,106.77313,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,12,masjid pondok indah 1,-6.261581,106.78234,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,13,permata hijau rs medika 3,-6.218209,106.77756,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,13,masjid pondok indah 2,-6.261469,106.78201,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,14,tanah kusir kodam 2,-6.257066,106.781556,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,14,simpang arteri kebayoran lama,-6.219148,106.77902,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,15,kodam tanah kusir,-6.254146,106.781552,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,15,jln. kb. nanas,-6.220356,106.78136,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,16,balai pertamina,-6.229555,106.79052,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,16,kebayoran lama bungur 2,-6.252863,106.781529,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,17,apartemen simprug teras,-6.232197,106.78874,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,17,jln. praja dalam h,-6.252098,106.781501,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,18,simpang kramat ii,-6.235583,106.78529,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,18,gandaria city,-6.243912,106.7824,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,19,ps. kebayoran lama 2,-6.237928,106.783266,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,19,puskesmas kel. gunung,-6.239677,106.790264,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,2,gg. marang,-6.217246,106.74855,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,2,jln. bulungan 1,-6.239981,106.79657,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,20,mayestik 2,-6.241772,106.79096,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,20,ps. inpres kebayoran,-6.235633,106.78445,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,21,rs pusat pertamina 2,-6.241189,106.79301,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,21,teuku nyak arief,-6.2312,106.7892,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,22,rs pusat pertamina 3,-6.239806,106.79431,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,22,gedung pertamina,-6.230483,106.78971,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,23,jln. bulungan 2,-6.239771,106.79658,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,23,jln. kb. nanas v permata hijau,-6.220567,106.78137,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,24,m bloc,-6.241445,106.798552,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,24,permata hijau rs medika 1,-6.218855,106.77808,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,25,blok m jalur 3,-6.243426,106.80188,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,25,permata hijau rs medika 2,-6.218114,106.777,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,26,stm cendrawasih,-6.216418,106.77393,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,27,sbr. komplek pertambangan kelapa dua,-6.216617,106.77072,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,28,jln. sukabumi selatan,-6.216704,106.76921,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,29,villa kelapa dua,-6.216829,106.76684,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,3,gg. sawo joglo,-6.217751,106.75034,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,3,rs pusat pertamina 1,-6.241352,106.79315,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,30,permata eksekutif 1,-6.216906,106.76541,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,31,masjid nurul iman joglo,-6.21731,106.76208,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,32,jln. srengseng raya 1,-6.217561,106.75992,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,33,jln. palem,-6.218201,106.75716,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,34,jln. taman alfa indah,-6.218503,106.75404,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,35,sbr. gg. sawo joglo,-6.217713,106.74968,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,36,puri botanical,-6.217893,106.74621,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,37,gerbang tol joglo 1,-6.218914,106.74426,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,38,jln. masjid baabul minan,-6.220471,106.741,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,39,joglo,-6.220009,106.74171,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,4,mayestik 1,-6.242041,106.79116,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,4,jln. langgar,-6.218336,106.75392,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,5,simpang gandaria kyai maja,-6.24186,106.79,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,5,jln. lapangan merah,-6.218499,106.75514,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,6,jln. jeruk joglo barat,-6.218007,106.7572,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,6,taman puring,-6.240966,106.78873,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,7,kebayoran baru velbak 1,-6.239561,106.78532,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,7,jln. srengseng raya 2,-6.217405,106.76064,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,8,jln. karya utama,-6.217168,106.76249,0,1,h02n
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,8,univ. satya negara,-6.241863,106.78286,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r03,sh,0,9,iskandar muda,-6.2443,106.78249,0,1,g717
+8d,joglo - blok m,dd6aab,8d-r04,sh,1,9,permata eksekutif 2,-6.216798,106.76524,0,1,h02n
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,0,blok m jalur 3,-6.243426,106.80188,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,0,bintaro,-6.271245,106.75133,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,1,bintaro gg. masjid,-6.27026,106.75217,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,1,kejaksaan agung,-6.24046,106.798482,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,10,kolong tol jakarta serpong 2,-6.256039,106.76062,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,10,jln. duku raya,-6.245761,106.78413,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,11,kolong tol guru saleh,-6.257605,106.76529,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,11,jln. bungur,-6.247708,106.7814,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,12,kebayoran lama bungur,-6.252688,106.781668,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,12,jln. guru saleh,-6.257895,106.76611,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,13,tanah kusir kodim,-6.256997,106.781727,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,13,lapangan hankam,-6.258139,106.76796,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,14,masjid pondok indah 1,-6.261581,106.78234,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,14,masjid jami al muflihun,-6.255722,106.76884,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,15,masjid pondok indah 2,-6.261469,106.78201,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,15,perlintasan bendi utama,-6.249439,106.77439,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,16,pool taksi tanah kusir,-6.254506,106.77741,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,16,pertamina bina medika,-6.253111,106.77389,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,17,jln. bendi baru,-6.253319,106.77658,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,17,masjid raya nurul hidayah,-6.253434,106.77626,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,18,jln. nimun raya,-6.253204,106.77344,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,18,jln. pelita,-6.250861,106.7782,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,19,pool express tanah kusir,-6.255345,106.76911,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,19,kantor pos kebayoran lama,-6.249119,106.778,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,2,pertigaan bintaro taman barat,-6.268807,106.75359,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,2,taman martha tiahahu,-6.242892,106.79838,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,20,jln. ikpn bintaro,-6.25997,106.76787,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,20,tpu bungur,-6.247208,106.77889,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,21,gerbang tol veteran,-6.261369,106.76721,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,21,perlintasan kereta api kebayoran,-6.240914,106.78098,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,22,st. kebayoran,-6.239001,106.78198,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,22,rusun rempoa,-6.261641,106.7666,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,23,pasar kebayoran lama,-6.238363,106.78327,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,23,bintaro kodam,-6.260196,106.76594,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,24,flyover bintaro,-6.25748,106.76478,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,24,kebayoran baru velbak 2,-6.239272,106.78492,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,25,singgalang,-6.236849,106.78782,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,25,kolong tol jakarta serpong 1,-6.256082,106.76049,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,26,sbr. jln. beo,-6.256595,106.75966,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,26,puskesmas kel. gunung,-6.239677,106.790264,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,27,bintaro park view,-6.257977,106.75969,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,27,mayestik 2,-6.241772,106.79096,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,28,simpang kodam bintaro permai,-6.259127,106.75974,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,28,rs pusat pertamina 2,-6.241189,106.79301,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,29,rs pusat pertamina 3,-6.239806,106.79431,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,29,sma kartika x-1,-6.26069,106.75891,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,3,perlintasan bintaro puspita 2,-6.264838,106.75679,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,3,plaza blok m,-6.244978,106.79752,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,30,csw 2,-6.239853,106.797838,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,30,spbu bintaro pondok betung,-6.261488,106.75659,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,31,blok m jalur 3,-6.243426,106.80188,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,31,acacia residence,-6.263358,106.75675,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,32,perlintasan bintaro puspita 1,-6.264875,106.7569,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,33,bintaro,-6.271245,106.75133,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,4,sekolahan kwitang 6 pskd,-6.241543,106.79607,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,4,jln. bulak sari,-6.263408,106.75665,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,5,rs pusat pertamina 1,-6.241352,106.79315,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,5,smpn 177,-6.261215,106.75713,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,6,mayestik 1,-6.242041,106.79116,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,6,sma kartika,-6.260596,106.75896,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,7,grand centro bintaro,-6.258839,106.75968,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,7,simpang gandaria kyai maja,-6.24186,106.79,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,8,masjid hifdzirrahim,-6.257359,106.75963,0,1,8e-r01_shp
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,8,taman puring 2,-6.242596,106.78793,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r03,sh,1,9,one park residences,-6.245436,106.78844,0,1,xhbh
+8e,bintaro - blok m,dd6aab,8e-r01,sh,0,9,jln. h. gari,-6.256091,106.75965,0,1,8e-r01_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,0,blok m jalur 3,-6.243426,106.80188,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,0,univ. indonesia,-6.353357,106.83186,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,1,ptik,-6.245461,106.80758,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,1,univ. pancasila,-6.342183,106.83335,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,10,lenteng agung barat,-6.308962,106.83803,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,10,menara bidakara,-6.242012,106.84064,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,11,santo lukas,-6.244763,106.84319,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,11,st. tj. barat 2,-6.307681,106.8386,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,12,komplek al,-6.297741,106.84018,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,12,pancoran 1,-6.246552,106.84291,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,13,rawa bambu,-6.294753,106.84078,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,13,perdatam,-6.249502,106.84284,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,14,jln. pancoran indah 1,-6.251998,106.84266,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,14,mja rawa bambu,-6.292069,106.84179,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,15,grand pasar minggu,-6.290648,106.84236,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,15,jln. bina harapan,-6.254258,106.84271,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,16,pertani,-6.256308,106.84325,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,16,lp3i,-6.286793,106.84369,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,17,pasar minggu,-6.284413,106.84414,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,17,smk karya teladan,-6.258596,106.84351,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,18,term. pasar minggu 2,-6.282492,106.84455,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,18,pom ad 1,-6.261949,106.84328,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,19,masjid at taqwa 2,-6.277593,106.84563,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,19,nifarro park,-6.263007,106.84332,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,2,st. universitas pancasila,-6.339371,106.83396,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,2,bppspam,-6.244679,106.80918,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,20,jln. siaga bakti 2,-6.273291,106.84642,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,20,sbr. h. samali,-6.265816,106.8442,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,21,brimob pejaten barat 2,-6.270925,106.84644,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,21,jln. batu 1,-6.268701,106.846,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,22,pmd,-6.26919,106.84609,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,22,ybk,-6.270872,106.8466,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,23,warga,-6.273295,106.84656,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,23,carrefour pejaten barat,-6.267834,106.84529,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,24,h. samali,-6.265888,106.84407,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,24,masjid at taqwa 1,-6.276957,106.84587,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,25,empang 3,-6.263342,106.84318,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,25,st. pasar minggu 1,-6.283156,106.84468,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,26,st. pasar minggu 2,-6.284239,106.84443,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,26,pomad 2,-6.261758,106.84311,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,27,masjid guru amin,-6.258186,106.8434,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,27,poltangan,-6.295763,106.84087,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,28,flyover tj. barat,-6.303059,106.83998,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,28,potlot,-6.254634,106.84265,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,29,graha sucofindo,-6.251886,106.84248,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,29,st. tj. barat 1,-6.307524,106.83926,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,3,sbr. sman 38,-6.335833,106.83481,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,3,taman wijaya,-6.242505,106.81265,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,30,tj. mas raya,-6.308428,106.8391,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,30,rs tria dipa,-6.250297,106.84261,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,31,mbau,-6.245829,106.8428,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,31,h. alwi,-6.309595,106.8389,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,32,poltek bunda kandung,-6.312052,106.83849,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,32,tendean,-6.240215,106.830883,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,33,gg. kancil i lenteng agung,-6.316507,106.83774,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,33,jln. bangka i,-6.240656,106.82043,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,34,spbu jln. guru,-6.318164,106.83745,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,34,jln. poncol jaya 1,-6.239706,106.81889,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,35,lenteng agung,-6.322025,106.83629,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,35,rengas,-6.238871,106.81704,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,36,taman lenteng agung,-6.322961,106.83569,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,36,wolter monginsidi,-6.238799,106.81376,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,37,ps. santa,-6.238971,106.8126,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,37,jln. h. zakaria,-6.326645,106.83391,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,38,st. lenteng agung 1,-6.330883,106.83542,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,38,cikajang wolter monginsidi,-6.239122,106.81084,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,39,tirtayasa 1,-6.239279,106.80756,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,39,wijaya kusuma,-6.333008,106.83567,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,4,gereja santapan rohani,-6.241739,106.813463,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,4,jagakarsa st. lenteng agung,-6.332399,106.83506,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,40,sman 38,-6.336201,106.83579,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,40,pln pusat,-6.240011,106.80376,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,41,jln. palatehan,-6.240057,106.800758,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,41,sman 109,-6.344687,106.83351,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,42,syibi,-6.350345,106.83272,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,42,m bloc,-6.241445,106.798552,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,43,blok m jalur 3,-6.243426,106.80188,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,43,univ. indonesia,-6.353357,106.83186,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,5,wijaya i,-6.240494,106.81433,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,5,st. lenteng agung 2,-6.331342,106.83467,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,6,rawa barat 1,-6.238813,106.8159,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,6,masjid jami al kubro,-6.326017,106.8332,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,7,kampus iisip,-6.323176,106.83487,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,7,jln. poncol jaya 2,-6.239441,106.81883,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,8,joe,-6.318127,106.83576,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,8,kantor pos mampang,-6.240216,106.82259,0,1,9h-r04_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r05,hk,0,9,masjid arrohmah,-6.314733,106.83653,0,1,9h-r05_shp
+9h,universitas indonesia - blok m,66a4a0,9h-r04,hk,1,9,transvision,-6.240036,106.82842,0,1,9h-r04_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,0,summarecon bekasi,-6.225566,107.00281,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,0,blok m jalur 4,-6.243474,106.80188,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,1,rs mitra keluarga 1,-6.240672,106.99317,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,1,bpjs kesehatan sultan hasanudin,-6.242517,106.80229,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,10,st. mrt asean 1,-6.23844,106.79858,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,10,bandar djakarta bekasi,-6.227085,106.99683,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,11,summarecon bekasi,-6.225566,107.00281,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,11,kejaksaan agung,-6.24046,106.798482,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,12,blok m jalur 4,-6.243474,106.80188,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,2,kayuringin 1,-6.245825,106.99277,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,2,bundaran senayan 2,-6.227877,106.80068,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,3,fx sudirman,-6.225532,106.8037,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,3,mega mall bekasi,-6.250287,106.992,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,4,gelora bung karno 2,-6.224126,106.80558,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,4,bekasi barat,-6.250045,106.99167,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,5,komdak 1,-6.222333,106.81407,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,5,gbk pintu 7,-6.222095,106.80861,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,6,komdak 2,-6.221715,106.81426,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,6,polda metro jaya 1,-6.221726,106.80984,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,7,gelora bung karno 1,-6.224642,106.8056,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,7,mall metropolitan,-6.247861,106.99215,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,8,kayuringin 2,-6.245948,106.99247,0,1,b13-r02_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,8,summitmas,-6.225826,106.80402,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r01,hk,0,9,bundaran senayan 1,-6.227445,106.80187,0,1,b13-r01_shp
+b13,bekasi barat - blok m,9c4782,b13-r02,hk,1,9,rs mitra keluarga 2,-6.24088,106.99285,0,1,b13-r02_shp
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,0,blok m jalur 4,-6.243474,106.80188,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,0,simpang ps. jumat,-6.289096,106.771,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,1,selapa polri,-6.286492,106.77119,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,1,bpjs kesehatan sultan hasanudin,-6.242517,106.80229,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,10,st. blok a dharmawangsa,-6.254652,106.79733,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,10,masjid al musyawarah pondok indah,-6.263833,106.779346,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,11,grand wijaya dharmawangsa,-6.254752,106.80034,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,11,pondok indah mall 3,-6.264341,106.782185,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,12,simpang darmawangsa x,-6.257555,106.80048,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,12,ranch market pondok indah,-6.263048,106.7847,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,13,margaguna 1,-6.263332,106.78775,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,13,jln. rejo,-6.259506,106.79685,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,14,griya haji nawi,-6.26375,106.789521,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,14,itc fatmawati,-6.26352,106.79716,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,15,smpn 240 jln. h. raya,-6.263843,106.790981,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,15,st. mrt haji nawi 1,-6.266345,106.797485,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,16,h. nawi jln. timbul,-6.268439,106.79744,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,16,sbr. yayasan pangudi luhur,-6.263816,106.795438,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,17,sbr. itc fatmawati,-6.26343,106.7969,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,17,h. nawi jln. madrasah,-6.268026,106.79712,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,18,st. mrt haji nawi 2,-6.266056,106.797262,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,18,jln. gotong royong,-6.260007,106.79662,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,19,st. mrt blok a,-6.257009,106.796912,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,19,yayasan pangudi luhur,-6.263921,106.795424,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,2,jln. palatehan ii,-6.241135,106.80129,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,2,mtsn 3 jakarta,-6.282959,106.77181,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,20,jln. h. nawi raya,-6.263949,106.79136,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,20,st. blok a petogogan,-6.254711,106.79713,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,21,margaguna 2,-6.26343,106.78772,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,21,ps. keramik panglima polim,-6.252307,106.797286,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,22,pondok indah mall 1,-6.263197,106.78479,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,22,jln. panglima polim ix,-6.24967,106.798809,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,23,smpn 12,-6.24967,106.803139,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,23,pondok indah mall 2,-6.264403,106.782455,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,24,sbr. wijaya ix panglima polim,-6.247439,106.802174,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,24,sbr. masjid al musyawarah pondok indah,-6.26398,106.779282,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,25,taman melawai,-6.246321,106.79999,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,25,sbr. smk makarya jakarta,-6.261495,106.777293,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,26,smk ora et labora,-6.247473,106.79999,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,26,kantor pos pondok pinang,-6.261808,106.77516,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,27,sbr. jln. melawai x,-6.246621,106.79852,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,27,jln. pondok pinang iv,-6.26655,106.775,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,28,kel. pondok pinang,-6.269664,106.77512,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,28,hotel melawai,-6.245857,106.79979,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,29,melawai plaza,-6.245853,106.80285,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,29,imigrasi kelas i jaksel,-6.273244,106.77478,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,3,taman martha tiahahu,-6.242892,106.79838,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,3,man 4 jakarta,-6.281498,106.77201,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,30,smk averus pondok pinang,-6.274852,106.77358,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,30,bpjs kesehatan sultan hasanudin,-6.242517,106.80229,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,31,sbr. puskesmas pondok pinang,-6.277472,106.77274,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,31,jln. palatehan ii,-6.241135,106.80129,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,32,sbr. fedex pondok pinang,-6.280155,106.77234,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,32,blok m jalur 4,-6.243474,106.80188,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,33,ra kartini,-6.282151,106.77315,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,34,jln. niaga hijau 1,-6.284509,106.775304,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,35,poins square,-6.289207,106.77718,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,36,st. mrt lebak bulus,-6.289421,106.77436,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,37,lebak bulus jak lingko,-6.289301,106.77299,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,38,simpang ps. jumat,-6.289096,106.771,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,4,puskesmas pondok pinang,-6.277299,106.7727,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,4,st. mrt blok m 1,-6.245156,106.798264,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,5,wijaya ix panglima polim,-6.24737,106.802246,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,5,sbr. smk averus pondok pinang,-6.274743,106.77353,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,6,sbr. smpn 12,-6.249761,106.803295,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,6,sbr. imigrasi kelas i jaksel,-6.273261,106.77464,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,7,sbr. jln. panglima polim ix,-6.249727,106.798811,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,7,sdn pondok pinang 01 03,-6.269871,106.775044,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,8,taman panglima polim,-6.251369,106.79751,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,8,jln. h. muhi pondok pinang,-6.266435,106.77491,0,1,0n45
+jak.102,blok m - lebak bulus,00609c,jak.102-r01,sh,0,9,sbr. ps. keramik panglima polim,-6.25237,106.797453,0,1,wz7u
+jak.102,blok m - lebak bulus,00609c,jak.102-r02,sh,1,9,terrace 2 pondok indah,-6.26311,106.77598,0,1,0n45
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,0,blok m jalur 4,-6.243474,106.80188,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,0,jln. h. terin pangkalan jati,-6.327961,106.80054,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,1,bpjs kesehatan sultan hasanudin,-6.242517,106.80229,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,1,andara margasatwa 2,-6.313577,106.80356,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,10,sbr. masjid jami darussalam pinang,-6.307844,106.79875,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,10,sbr. child care pre school,-6.257475,106.801105,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,11,jln. darmawangsa x,-6.257378,106.802938,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,11,kel. pondok labu,-6.306356,106.79867,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,12,sdn cipete utara 09,-6.258171,106.803413,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,12,sekolah charitas pondok labu,-6.305062,106.79864,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,13,simpang kirai jln. damai v,-6.259705,106.8023,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,13,sbr. komplek ddn 1,-6.303398,106.79896,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,14,sbr. bbpk jakarta,-6.301958,106.79794,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,14,gg. reformasi damai raya,-6.259917,106.80327,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,15,sbr. jln. berlian ii pondok labu,-6.298155,106.79932,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,15,simpang damai raya h. jian,-6.26034,106.80579,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,16,simpang h. jian,-6.262225,106.80554,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,16,sbr. komplek rspp,-6.296036,106.79926,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,17,simpang tunda bara tb simatupang,-6.293002,106.798638,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,17,sbr. mushola al achyar cipete,-6.262475,106.80417,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,18,jln. saraswati cipete,-6.263214,106.8042,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,18,fatmawati 1,-6.292571,106.79743,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,19,sbr. jln. h. jian 2b cipete,-6.264625,106.8043,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,19,fatmawati 2,-6.291994,106.79606,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,2,sdn pondok labu 11,-6.313269,106.80221,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,2,jln. palatehan ii,-6.241135,106.80129,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,20,simpang h. jian abdul majid 1,-6.266078,106.80441,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,20,cilandak town square,-6.291991,106.79967,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,21,simpang cilandak tengah raya 2,-6.291453,106.80187,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,21,simpang abdul majid h. saidi,-6.266188,106.80602,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,22,sbr. yayasan hidayatut tholibin,-6.288845,106.80207,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,22,jln. bunga cempaka ii cipete,-6.26868,106.80636,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,23,simpang h. naim cilandak barat,-6.28749,106.8023,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,23,masjid al akhyar cipete,-6.269685,106.80493,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,24,sbr. jln. albarkah ii cilandak,-6.287195,106.80168,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,24,simpang bunga melati flamboyan,-6.269955,106.80329,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,25,sbr. jln. albarkah i cilandak,-6.285954,106.79961,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,25,simpang bunga flamboyan asem ii,-6.272213,106.80309,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,26,sbr. perumahan bdn cilandak,-6.284324,106.79942,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,26,sdn cipete selatan 01,-6.272283,106.80167,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,27,gereja hkbp cipete,-6.272186,106.80086,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,27,sbr. tk dwi matra cilandak,-6.282523,106.79945,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,28,sbr. masjid al karomah cipete,-6.273486,106.80066,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,28,sbr. jln. gaharu ii cilandak,-6.280132,106.79951,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,29,simpang gaharu mpr raya,-6.28008,106.80245,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,29,gg. anggur cipete dalam,-6.276068,106.80052,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,3,taman martha tiahahu,-6.242892,106.79838,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,3,akper fatmawati pondok labu,-6.313187,106.79931,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,30,simpang cipete dalam raya,-6.277591,106.8007,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,30,simpang cipete raya dalam,-6.277545,106.80067,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,31,gg. tampak siring cipete dalam,-6.274609,106.80055,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,31,smpn 68,-6.278279,106.79964,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,32,masjid al karomah cipete,-6.273435,106.80064,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,32,jln. gaharu ii cilandak,-6.279992,106.79957,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,33,tk dwi matra cilandak,-6.283064,106.79947,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,33,sbr. gereja hkbp cipete,-6.272336,106.80074,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,34,perumahan bdn cilandak,-6.284482,106.79946,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,34,sbr. sdn cipete selatan 01,-6.272215,106.8015,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,35,jln. albarkah i cilandak,-6.285505,106.79964,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,35,simpang asem ii bunga flamboyan,-6.272424,106.80298,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,36,jln. albarkah ii cilandak,-6.287157,106.80173,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,36,simpang bunga flamboyan melati,-6.269686,106.80352,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,37,pertigaan h. naim cilandak barat,-6.287426,106.80233,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,37,sbr. masjid al akhyar cipete,-6.269658,106.8049,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,38,yayasan hidayatut tholibin,-6.289066,106.8021,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,38,sbr. jln. bunga cempaka ii cipete,-6.268821,106.8063,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,39,simpang cilandak tengah raya 1,-6.291253,106.80188,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,39,simpang h. saidi abdul majid,-6.266266,106.80629,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,4,st. mrt blok m 1,-6.245156,106.798264,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,4,taman ddn,-6.312565,106.7965,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,40,cilandak tengah,-6.292028,106.802056,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,40,simpang h. jian abdul majid 2,-6.265754,106.80435,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,41,jln. h. jian 2b cipete,-6.264499,106.80426,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,41,jgc indonesia,-6.292686,106.802416,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,42,simpang tb simatupang tunda bara,-6.292999,106.7987,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,42,sbr. jln. saraswati cipete,-6.263279,106.80417,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,43,mushola al achyar cipete,-6.262158,106.80415,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,43,komplek rspp,-6.29621,106.79946,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,44,jln. berlian ii pondok labu,-6.298412,106.79927,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,44,sbr. gg. yasto cipete,-6.260998,106.80568,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,45,bbpk jakarta,-6.302219,106.798,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,45,masjid al hidayah cipete,-6.258835,106.80678,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,46,rsia brawijaya jln. h. jian,-6.257484,106.80717,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,46,komplek ddn 1,-6.303426,106.79914,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,47,sbr. sekolah charitas pondok labu,-6.304955,106.79879,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,47,essence dharmawangsa,-6.257365,106.80495,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,48,child care pre school,-6.257557,106.8009,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,48,sbr. kel. pondok labu,-6.30655,106.79871,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,49,masjid jami darussalam pinang,-6.308075,106.79876,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,49,simpang darmawangsa xi prapanca,-6.256381,106.80051,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,5,taman melawai,-6.246321,106.79999,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,5,smpn 85,-6.31244,106.79533,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,50,darmawangsa square,-6.253048,106.80116,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,50,sbr. jln. pinang iiib,-6.308184,106.79797,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,51,sbr. jln. melawai x,-6.246621,106.79852,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,51,simpang pinang i pondok labu,-6.308702,106.795996,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,52,jln. pinang ii pondok labu,-6.310414,106.79665,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,52,hotel melawai,-6.245857,106.79979,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,53,melawai plaza,-6.245853,106.80285,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,53,simpang ddn pondok labu,-6.312668,106.79687,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,54,bpjs kesehatan sultan hasanudin,-6.242517,106.80229,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,54,sbr. akper fatmawati pondok labu,-6.313126,106.79938,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,55,jln. palatehan ii,-6.241135,106.80129,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,55,timah jln. margasatwa,-6.313202,106.80228,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,56,blok m jalur 4,-6.243474,106.80188,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,56,andara margasatwa 1,-6.313471,106.80369,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,57,jln. h. terin pangkalan jati,-6.327961,106.80054,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,6,smk ora et labora,-6.247473,106.79999,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,6,ps. pondok labu,-6.312034,106.79409,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,7,jln. h. ipin,-6.311098,106.79357,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,7,simpang wijaya xiii panglima polim,-6.249559,106.79998,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,8,graha werdatama pondok labu,-6.309163,106.79461,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,8,taman panglima polim xvi,-6.252296,106.79893,0,1,jak.31-r01_shp
+jak.31,blok m - andara,00609c,jak.31-r02,sh,1,9,jln. pinang iiib,-6.308157,106.79798,0,1,jak.31-r02_shp
+jak.31,blok m - andara,00609c,jak.31-r01,sh,0,9,grand wijaya dharmawangsa,-6.254752,106.80034,0,1,jak.31-r01_shp
+m1,blok m - kota,24ff24,m1-r06,sh,1,0,kali besar barat,-6.135355,106.81143,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,0,blok m,-6.243312,106.80175,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r05,sh,0,1,asean,-6.239911,106.79897,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,1,museum fatahillah,-6.133882,106.81214,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,10,mh thamrin,-6.188262,106.82304,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,10,dukuh atas 1,-6.205621,106.822203,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r05,sh,0,11,tosari,-6.196742,106.823051,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,11,bundaran hi astra,-6.192971,106.82303,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,12,tosari,-6.19695,106.823131,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,12,bundaran hi astra,-6.192977,106.822954,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r05,sh,0,13,mh thamrin,-6.188038,106.82296,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,13,dukuh atas 1,-6.205627,106.822295,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,14,bank indonesia arah utara,-6.182776,106.8228,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,14,karet sudirman k-l-m,-6.212511,106.820052,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,15,monas,-6.176246,106.822804,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,15,benhil 1,-6.217304,106.8154,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,16,harmoni,-6.162598,106.819886,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,16,komdak 2,-6.221715,106.81426,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,17,gatot subroto lipi arah timur,-6.226484,106.817397,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,17,sawah besar,-6.157375,106.818645,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,18,gatot subroto jamsostek arah timur,-6.232579,106.821614,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,18,mangga besar,-6.153266,106.817481,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,19,gatot subroto jamsostek arah barat,-6.233536,106.822059,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,19,olimo,-6.149307,106.816641,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,2,kota,-6.136827,106.814876,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,2,masjid agung,-6.236472,106.798412,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,20,gatot subroto lipi arah barat,-6.227453,106.817652,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,20,glodok,-6.144448,106.815417,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,21,komdak 1,-6.222333,106.81407,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,21,kali besar barat,-6.135355,106.81143,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,22,gelora bung karno,-6.224286,106.805761,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,23,bundaran senayan d-e-f,-6.227941,106.800905,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,24,masjid agung,-6.236477,106.798482,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,25,kejaksaan agung,-6.24046,106.798482,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,26,blok m,-6.243312,106.80175,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,3,glodok,-6.144544,106.815514,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,3,bundaran senayan k-l-m,-6.227766,106.800954,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,4,olimo,-6.149291,106.816732,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,4,gelora bung karno,-6.224137,106.805837,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r05,sh,0,5,senayan jcc arah barat,-6.213962,106.808428,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,5,mangga besar,-6.153256,106.817543,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,6,slipi petamburan 2,-6.201683,106.80002,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,6,sawah besar,-6.157366,106.818702,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,7,senayan jcc arah timur,-6.214159,106.809044,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,7,harmoni,-6.162764,106.819961,0,1,1d11
+m1,blok m - kota,24ff24,m1-r06,sh,1,8,monas,-6.176252,106.822922,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,8,benhil 2,-6.216775,106.8154,0,1,2dmc
+m1,blok m - kota,24ff24,m1-r06,sh,1,9,bank indonesia arah selatan,-6.184784,106.82326,0,1,1d11
+m1,blok m - kota,24ff24,m1-r05,sh,0,9,karet sudirman d-e-f,-6.212352,106.819981,0,1,2dmc
